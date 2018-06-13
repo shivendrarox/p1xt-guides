@@ -25,7 +25,7 @@ Study each item thoroughly. Type the code. Understand how it works. Yes, the who
 * Code all CSS yourself
 * Use React-Bootstrap
 ----    
-- [ ]  Video: [React Community Videos](https://reactjs.org/community/videos.html) Pick and watch one video - don't worry about understanding every detail
+- [x]  Video: [React Community Videos](https://reactjs.org/community/videos.html) Pick and watch one video - don't worry about understanding every detail
 - [ ]  Official Docs: [Intro To React](https://reactjs.org/tutorial/tutorial.html) - All sections 
 - [ ]  Official Docs: [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets)
